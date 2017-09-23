@@ -13,7 +13,7 @@
     "rollbar": "^2.0.1"
   },
   "devDependencies": {
-    "nock": "^9.0.13",
+    "nock": "^9.0.19",
     "nyc": "^11.0.2",
     "proxyquire": "^1.7.10",
     "redis-mock": "^0.17.0",
